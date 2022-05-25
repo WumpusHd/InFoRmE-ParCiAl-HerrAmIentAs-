@@ -18,6 +18,10 @@ Por ultimo, si el usuario desea agregar otro producto, basta con escribir "si", 
             
 ### REFERENCIAS
 
-1. [Sintaxis Markdown usada para realizar el archivo readme del repositorio](https://markdown.es/sintaxis-markdown/): https://markdown.es/sintaxis-markdown/
-2. [Nuevos Modelos Computacionales](https://www.computing.es/analytics/opinion/1118527046201/cuales-nuevos-modelos-de-computacion.1.html):
+1. [Sintaxis Markdown usada para realizar el archivo readme del repositorio](https://markdown.es/sintaxis-markdown/):
+
+ https://markdown.es/sintaxis-markdown/
+ 
+3. [Nuevos Modelos Computacionales](https://www.computing.es/analytics/opinion/1118527046201/cuales-nuevos-modelos-de-computacion.1.html):
+
  https://www.computing.es/analytics/opinion/1118527046201/cuales-nuevos-modelos-de-computacion.1.html
